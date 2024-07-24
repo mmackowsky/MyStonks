@@ -13,6 +13,7 @@ plotly = "^5.23.0"
 psycopg2 = "^2.9.9"
 psycopg2-binary = "^2.9.9"
 pre-commit = "^3.7.1"
+requests = "^2.32.3"
 
 
 [build-system]
